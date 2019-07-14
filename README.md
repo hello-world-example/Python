@@ -1,9 +1,9 @@
-# Template 
+# Python 
 
 空的模版项目
 
 ```
-sed -i '' 's/Template/_NewProject_/g' `grep Template --include=\*.{md,html,xml} -rl .`
+sed -i '' 's/Python/Python/g' `grep Python --include=\*.{md,html,xml} -rl .`
 ```
 
 
