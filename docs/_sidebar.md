@@ -1,10 +1,12 @@
+* [README](/)
 * 基础
-    * [安装](install.md)
-    * [字典](dict.md)
-    * [import 机制](import.md)
+    * [安装](Basic/install.md)
+    * [字典](Basic/dict.md)
+    * [import 机制](Basic/import.md)
+    * [`__future__`](Basic/__future__.md)
 * 内建库
-    * [datetime 时间处理](datetime.md)
-    * [argparse 参数处理](argparse.md)
+    * [datetime 时间处理](Build-In-Lib/datetime.md)
+    * [argparse 参数处理](Build-In-Lib/argparse.md)
 * 第三方库
-* [资源](resource.md)
+    * [MySQLdb](3th-lib/MySQLdb.md)
 
